@@ -1,1 +1,1 @@
-# jenkins-learning
+Jenkins learning repository content
